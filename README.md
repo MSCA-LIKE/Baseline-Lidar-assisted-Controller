@@ -11,7 +11,7 @@ ROSCO.dll:   The ROSCO.  Version 2.6.0 controller, https://github.com/NREL/ROSCO
 
 Author: Feng Guo from Flensburg University of Applied Sciences, funded by LIKE -- Lidar Knowledge Europe, grant agreement No. 858358.   
 Target: This code aims to provide a reference Lidar-assisted control package for the community.  Please cite the following paper if this code is helpful for your research:
-"Guo, F., Schlipf, D., and Cheng, P. W.: Evaluation of lidar-assisted wind turbine control under various turbulence characteristics, Wind Energ. Sci. Discuss.  [preprint], https://doi.org/10.5194/wes-2022-62, in review, 2022.  " for more details.   
+"Guo, Feng, David Schlipf, and Po Wen Cheng. "Evaluation of lidar-assisted wind turbine control under various turbulence characteristics." Wind Energy Science 8.2 (2023): 149-171.  " for more details.   
     
 ! License: MIT License
 !  Copyright (c) 2022 Flensburg University of Applied Sciences, WETI
